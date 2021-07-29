@@ -4,3 +4,6 @@ body {
 .feature-bike {
   filter: grayscale(100%);
 }
+.fa-star {
+  color: #e77c40;
+}
